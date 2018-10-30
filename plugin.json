@@ -1,0 +1,30 @@
+{
+  "version"           : "1.0.0",
+  "name"              : "ChangeCategories",
+  "marketplaceName"   : {"de": "Kategorieänderungstool","en": "change categories tool"},
+  "license"           : "",
+  "isExternalTool"    : true,
+  "pluginIcon"        : "icon_plugin_xs.png",
+  "price"             : 0.00,
+  "description"       : "Fügt hinzu/entfernt Kategorien bei allen Varianten von Artikeln oder einzelnen Varianten.",
+  "shortDescription"  : {"de": "Fügt Kategorien bei Varianten hinzu oder entfernt welche.","en": "Remove or add categories by variations."},
+  "categories"        : ["3527"],
+  "author"            : "inch-media GmbH",
+  "authorIcon"        : "icon_author_xs.png",
+  "email"             : "tobias@inch-media.de",
+  "phone"             : "",
+  "keywords"          : ["plentymarkets", "category", "categories", "tool", "Kategorie","Kategories","variation"],
+  "type"              : "tool",
+
+  "directDownloadLinks" : {"Windows":"download-link", "MacOs":"download-link", "Linux":"download-link"},
+  "forwardLink"         : "https://to-the-download-page.com",
+
+  "require"             : [],
+  "namespace"           : "ChangeCategories",
+  "serviceProvider"     : "inch.media GmbH",
+  "javaScriptFiles"     : [],
+  "containers"          : [],
+  "dataProviders"       : [],
+  "dependencies"        : [],
+  "runOnBuild"          : []
+}
